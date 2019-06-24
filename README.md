@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/jackharrhy/meowj.svg?branch=master)](https://travis-ci.org/jackharrhy/meowj)
+
 meowj
 =====
 
